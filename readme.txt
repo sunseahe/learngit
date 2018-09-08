@@ -1,2 +1,2 @@
 Git is a free software.
-Git
+Git is a distributiong verson contral software
